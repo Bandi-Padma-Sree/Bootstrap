@@ -1,0 +1,10 @@
+body{
+
+  background: url('rolex.jpeg') no-repeat center center fixed; /* fixed helps the background to not change regardless of screensize*/
+  background-size: cover;
+}
+h1{
+  color: #C4E538;
+  text-align: center;
+  margin-top: 50px;
+}
